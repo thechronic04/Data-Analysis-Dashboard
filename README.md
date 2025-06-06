@@ -24,4 +24,5 @@ Dashboard Interactions  <a  href="https://github.com/thechronic04/Data-Analysis-
 - Created Pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-  
+  ![Screenshot (44)](https://github.com/user-attachments/assets/bc7805bb-bb10-4202-9a82-6bc14d5fe102)
+
